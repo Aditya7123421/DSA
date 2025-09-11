@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+// Geek for Geeks easy
+
 // only lowercase char in string
 
 char getMaxOccuringChar(string& s) {
